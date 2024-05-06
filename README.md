@@ -1,2 +1,1 @@
-# seleniumProjects
-Repo showcasing automated testing functionalities using Cucumber, Selenium WebDriver, and Java. Includes projects for validating Google search functionality and other automated testing scenarios. Demonstrates proficiency in test automation, BDD, and Java programming.
+Welcome to my automated testing repository! This repository showcases automated testing functionalities using Cucumber, Selenium WebDriver, and Java. It includes projects for validating Google search functionality and other automated testing scenarios. To get started, check out the installation instructions and how to run the tests. Explore the projects to learn more about test automation, BDD practices, and Java programming
